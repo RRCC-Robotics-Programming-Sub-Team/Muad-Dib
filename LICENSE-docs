@@ -1,17 +1,9 @@
 Creative Commons Attribution 4.0 International (CC BY 4.0)
 
-Except where noted, all documentation and images in this repository are licensed under
+Except where otherwise noted, all documentation and images in this repository are licensed under
 the Creative Commons Attribution 4.0 International License.
 
-Attribution text to use:
-"© 2025 RRCC Space Grant Robotics Team — Bradley T. Harz (Lead), Merwin Mendoza, Melissa Heng"
-cat > LICENSE-docs << 'EOF'
-Creative Commons Attribution 4.0 International (CC BY 4.0)
-
-Except where noted, all documentation and images in this repository are licensed under
-the Creative Commons Attribution 4.0 International License.
-
-Attribution text to use:
+Required attribution text to use:
 "© 2025 RRCC Space Grant Robotics Team — Bradley T. Harz (Lead), Merwin Mendoza, Melissa Heng"
 
 Full text: https://creativecommons.org/licenses/by/4.0/legalcode
