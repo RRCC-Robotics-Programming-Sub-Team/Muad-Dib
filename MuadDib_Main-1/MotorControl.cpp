@@ -1,3 +1,4 @@
+/* SPDX-License-Identifier: Apache-2.0 */
 #include "MotorControl.h"
 
 MotorControl::MotorControl(int ena, int in1, int in2, int in3, int in4, int enb) {

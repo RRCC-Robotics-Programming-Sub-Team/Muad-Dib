@@ -1,3 +1,4 @@
+/* SPDX-License-Identifier: Apache-2.0 */
 // OrientationControl.h
 #ifndef ORIENTATIONCONTROL_H
 #define ORIENTATIONCONTROL_H

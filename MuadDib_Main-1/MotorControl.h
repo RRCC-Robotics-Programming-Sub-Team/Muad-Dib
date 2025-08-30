@@ -1,3 +1,4 @@
+/* SPDX-License-Identifier: Apache-2.0 */
 #ifndef MOTORCONTROL_H
 #define MOTORCONTROL_H
 
