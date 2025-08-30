@@ -81,3 +81,17 @@ void L298N::setup_motor(int motor_index, int state1, int state2) {
   digitalWrite(motors[motor_index].IN1, state1);
   digitalWrite(motors[motor_index].IN2, state2);
 }
+
+
+
+/* ─────────────────────────────────────────────────────────────────────────────
+   RRCC Space Grant Robotics — Muad-Dib
+
+   CREDITS
+   Lead Programmer: Bradley T. Harz
+   Team:            Merwin Mendoza, Melissa Heng
+
+   © 2025 RRCC Space Grant Robotics Team.
+   License (code): Apache-2.0 — see LICENSE
+   License (docs/images in repo): CC BY 4.0 — see LICENSE-docs
+   ──────────────────────────────────────────────────────────────────────────── */
